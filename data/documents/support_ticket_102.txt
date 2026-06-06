@@ -1,0 +1,9 @@
+Ticket ID: 102
+Customer: Jane Smith
+Date: 2026-06-02
+Subject: Return request for Order 5002
+
+Message:
+I placed order 5002 for Gadget B yesterday, but I see it is still pending.
+If I decide to return it when it arrives, do I have to pay any restocking fee since it is a hardware product?
+Also, how many days do I have to return it?

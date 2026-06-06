@@ -1,0 +1,11 @@
+Policy Name: Shipping Policy
+Last Updated: 2026-02-10
+
+We offer three tiers of shipping services:
+1. Standard Shipping: 3-5 business days. Free for orders over $50.00, otherwise flat rate of $5.99.
+2. Express Shipping: 1-2 business days. Flat rate of $15.00.
+3. Priority Overnight: Next business day delivery. Flat rate of $35.00.
+
+Orders are processed within 24 hours of placement (excluding weekends and holidays). 
+Once shipped, customers receive a tracking ID via email. 
+International shipping is currently unavailable.

@@ -1,0 +1,8 @@
+Ticket ID: 101
+Customer: John Doe
+Date: 2026-05-29
+Subject: Shipping enquiry for Order 5001
+
+Message:
+Hello, my order 5001 of Widget A was shipped on 2026-05-28. I used standard shipping.
+Can you please let me know how many business days it typically takes to arrive?

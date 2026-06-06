@@ -1,0 +1,9 @@
+Ticket ID: 106
+Customer: David White
+Date: 2026-05-21
+Subject: Bulk discount for Order 5006
+
+Message:
+Hello, we ordered 10 Widget A units (Order 5006) which was shipped yesterday.
+Can you confirm if there is a bulk discount applicable to this quantity?
+Our team needs to purchase another 20 units if the price can be discounted.

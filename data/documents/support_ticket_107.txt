@@ -1,0 +1,8 @@
+Ticket ID: 107
+Customer: Eve Black
+Date: 2026-05-23
+Subject: Overnight shipping request for Order 5007
+
+Message:
+My order 5007 of Gadget B units was delivered yesterday. It is perfect.
+In the future, does standard shipping cover priority overnight delivery, or is there an extra flat rate?

@@ -1,0 +1,9 @@
+Ticket ID: 104
+Customer: Bob Brown
+Date: 2026-05-26
+Subject: Product warranty duration for Gadget B (Order 5004)
+
+Message:
+Dear Support, my order 5004 of 3 Gadget B units was delivered yesterday.
+I want to double check: what is the official warranty period for Gadget B, and what does it cover?
+Also, where can I find the power adapter configuration for it?

@@ -1,0 +1,9 @@
+Ticket ID: 103
+Customer: Alice Johnson
+Date: 2026-05-31
+Subject: Cancelled Order 5003 Refund Status
+
+Message:
+Hi support team, I noticed my order 5003 of Widget A (quantity of 5, total $100.00) was marked as cancelled on 2026-05-30.
+I want to know if my refund has been initiated and how long it takes to process.
+The policy says digital products are non-refundable, but this is a hardware Widget A.

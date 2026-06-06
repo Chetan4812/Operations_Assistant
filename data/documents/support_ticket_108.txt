@@ -1,0 +1,9 @@
+Ticket ID: 108
+Customer: Frank Gray
+Date: 2026-06-04
+Subject: Support ticket for Widget A Warranty (Order 5008)
+
+Message:
+I have a pending order 5008 of 4 Widget A items.
+I was reading the product note. Does the limited hardware warranty cover drops or water damage?
+If so, what's the procedure to file a warranty claim?

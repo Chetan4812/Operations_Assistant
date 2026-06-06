@@ -1,0 +1,9 @@
+Policy Name: Return Policy
+Last Updated: 2026-01-15
+
+Returns are permitted within 30 days of the delivery date.
+- Items must be in their original packaging and unused condition.
+- A 15% restocking fee is applied to opened hardware products (including Widget A).
+- Software and digital products are non-refundable.
+- Return shipping costs are paid by the customer unless the item was delivered damaged or defective.
+- Refund processing takes 5 to 7 business days from receipt of the item at our warehouse.

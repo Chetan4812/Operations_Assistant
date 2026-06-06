@@ -1,0 +1,14 @@
+Document Name: Product Specifications
+Last Updated: 2026-03-01
+
+1. Widget A:
+   - Price: $20.00
+   - Description: Lightweight operations tracking tool.
+   - Warranty: 1-year limited hardware warranty covering manufacturing defects.
+   - Power Source: USB-C rechargeable battery.
+
+2. Gadget B:
+   - Price: $99.99
+   - Description: Premium operations dashboard display.
+   - Warranty: 2-year manufacturer warranty.
+   - Power Source: AC power adapter or internal battery backup.

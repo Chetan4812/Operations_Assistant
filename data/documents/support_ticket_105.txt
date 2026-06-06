@@ -1,0 +1,8 @@
+Ticket ID: 105
+Customer: Charlie Green
+Date: 2026-06-05
+Subject: Shipped order damage for Order 5005
+
+Message:
+Hello, my Widget A (Order 5005) arrived today, but the box was crushed and the product does not turn on.
+I see the status is marked as Shipped. Do I have to pay return shipping if I return a damaged product?

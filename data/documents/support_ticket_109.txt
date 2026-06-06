@@ -1,0 +1,9 @@
+Ticket ID: 109
+Customer: Grace Pink
+Date: 2026-06-05
+Subject: Delivery location change request (Order 5009)
+
+Message:
+My order 5009 of 1 Gadget B is currently pending.
+Can I change the shipping address to our main operations office instead of our remote branch?
+Please let me know if it is possible before the status changes to Shipped.

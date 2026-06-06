@@ -1,0 +1,11 @@
+order_id,customer_name,product,quantity,status,order_date,total_amount
+5001,John Doe,Widget A,2,Shipped,2026-05-28,40.00
+5002,Jane Smith,Gadget B,1,Pending,2026-06-01,99.99
+5003,Alice Johnson,Widget A,5,Cancelled,2026-05-30,100.00
+5004,Bob Brown,Gadget B,3,Delivered,2026-05-25,299.97
+5005,Charlie Green,Widget A,1,Shipped,2026-06-04,20.00
+5006,David White,Widget A,10,Shipped,2026-05-20,200.00
+5007,Eve Black,Gadget B,2,Delivered,2026-05-22,199.98
+5008,Frank Gray,Widget A,4,Pending,2026-06-03,80.00
+5009,Grace Pink,Gadget B,1,Pending,2026-06-05,99.99
+5010,Henry Blue,Widget A,3,Delivered,2026-05-26,60.00
